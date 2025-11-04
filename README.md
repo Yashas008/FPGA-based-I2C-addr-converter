@@ -88,9 +88,9 @@ Impact: <1% of I²C devices use 10-bit addressing
 No SMBus Features: Missing PEC, timeout, alert response
 Impact: Basic I²C functionality works fine
 
-**Acknowledgments
+**Acknowledgments**
 
-Vicharak Technologies for the interesting technical challenge
-NXP for I²C specification (UM10204)
-FPGA Community for design best practices and also various Textbooks and Research papers on this topic
-**
+**Vicharak Technologies for the interesting technical challenge**
+**NXP for I²C specification (UM10204)**
+**FPGA Community for design best practices and also various Textbooks and Research papers on this topic**
+
