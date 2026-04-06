@@ -35,8 +35,7 @@ ADDR_TX (3'd3): Send translated address to device
 DATA_FORWARD (3'd4): Transparent data forwarding
 WAIT_STOP (3'd5): Reserved for future use
 
-The code was ran on AMD Xilinx Vivado and also Cadence NC due to simulator issues in the EDA playground. The screenshots from the Cadence NC will be put in the final report for detailed viewing. The usage of the tool is also present on the Screen recordings present in the shared drive link below:
-  https://drive.google.com/drive/folders/1aX-Pa31a4S8Jups_J6Uzyt1YHTX3SehI?usp=sharing
+The code was ran on AMD Xilinx Vivado and also Cadence NC due to simulator issues in the EDA playground. The screenshots from the Cadence NC will be put in the final report for detailed viewing. 
 
 The EDA playground link is given below:
   https://www.edaplayground.com/x/G8Wn
